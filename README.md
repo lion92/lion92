@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lion92
+- 👋 Hi, I’m kriss
 - 👀 I’m interested in java and javascript
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on full stack project
